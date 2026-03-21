@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Shevendra Chandel</h1>
+<h1 align="center">👋 Hi, I'm Shevendra Singh Chandel</h1>
 
 <h3 align="center">🚀 Java Backend Developer | Spring Boot | REST APIs | Open to Opportunities</h3>
 

@@ -106,11 +106,10 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://drive.google.com/uc?export=download&id=12bm2oyCV4P5o1xH25mkdtyz8vmJPCGhh">
     <img src="https://img.shields.io/badge/Download%20Resume-ff5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## 📫 Contact Me

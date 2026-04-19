@@ -1,28 +1,29 @@
-<h1 align="center">👋 Hi, I'm Shevendra Singh Chandel</h1>
+<h1 align="center">Hi 👋, I'm Shevendra Singh Chandel</h1>
 
-<h3 align="center">🚀 Java Backend Developer | Spring Boot | REST APIs | Open to Opportunities</h3>
+<h3 align="center">
+Backend Java Developer | Spring Boot | REST APIs | Building Scalable Systems
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Expert;Backend+Engineer;Problem+Solver;Ready+for+Placements" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Problem+Solver;Open+to+Opportunities" />
 </p>
 
 ---
 
 ## 💼 About Me
 
-🎯 Aspiring **Software Engineer** with strong expertise in **Java Backend Development**  
-💻 Skilled in building **scalable REST APIs & database-driven applications**  
-📈 Focused on **clean code, performance & real-world problem solving**  
-🚀 Actively looking for **placement & internship opportunities**
+- Backend Developer specializing in **Java & Spring Boot**
+- Experience in building **REST APIs and database-driven applications**
+- Strong focus on **clean code, scalability, and performance**
+- Actively seeking **software engineering opportunities**
 
 ---
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git,github,idea,postman,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git,github,idea,postman,html,css,js,react" />
 </p>
 
----
 
 ### ⚙️ Backend Development
 - Java  
@@ -33,7 +34,7 @@
 - REST APIs
 - SpringSecurity
 
----
+
 
 ### 🎨 Frontend Development
 - HTML  
@@ -41,13 +42,12 @@
 - JavaScript  
 - Basic React 
 
----
+
 
 ### 🗄️ Database
 - MySQL  
 - MongoDB  
 
----
 
 ### 🔧 Tools & Platforms
 - Git & GitHub  
@@ -92,6 +92,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-Shevendra%20Chandel-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ## 🏆 Achievements
@@ -103,13 +104,22 @@
 
 ---
 
+## 📌 What I'm Currently Doing
+
+- Improving Data Structures & Algorithms
+- Learning System Design basics
+- Building backend-focused real-world projects
+
+---
+
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=12bm2oyCV4P5o1xH25mkdtyz8vmJPCGhh">
+  <a href="https://drive.google.com/uc?export=download&id=12cHK9G0lCBMg-WJ5o1RSSXHYVLCmGPkI" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-ff5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ## 📫 Contact Me
@@ -126,4 +136,4 @@
 
 ---
 
-⭐ **"Code. Learn. Build. Get Placed 🚀"**
+                                                   ⭐ **"Code. Learn. Build. Get Placed 🚀"**

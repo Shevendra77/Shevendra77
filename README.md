@@ -67,6 +67,19 @@ Backend Java Developer | Spring Boot | REST APIs | Building Scalable Systems
 
 🔗 https://github.com/Shevendra77/BookMyShow  
 
+# 💳 Education Payment System (- icroservices + Kafka + Razorpay)
+
+- Built a scalable microservices-based payment system using Spring Boot  
+- Implemented secure payment flow using Razorpay API integration  
+- Designed event-driven architecture using Apache Kafka for asynchronous communication  
+- Developed separate PaymentService and NotificationService for modular design  
+- Used MySQL for persistent storage of transactions and notification logs  
+- Integrated email notification system using SMTP (Gmail)  
+- Implemented Docker-based containerization for databases and services  
+
+---
+
+🔗 https://github.com/Shevendra77/education-payment-system
 ---
 ## 📊 GitHub Dashboard
 

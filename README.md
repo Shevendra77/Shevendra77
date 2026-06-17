@@ -59,13 +59,14 @@ Backend Java Developer | Spring Boot | REST APIs | Building Scalable Systems
 
 ## 🚀 Featured Projects
 
-### 🎬 BookMyShow Clone
+# 🎬 BookMyShow Clone
 - Built complete backend system using Spring Boot  
 - Designed REST APIs for booking & user management  
 - Used Hibernate + JPA for DB handling  
 - MySQL integration  
-
+---
 🔗 https://github.com/Shevendra77/BookMyShow  
+---
 
 # 💳 Education Payment System (- Microservices + Kafka + Razorpay)
 
@@ -81,6 +82,25 @@ Backend Java Developer | Spring Boot | REST APIs | Building Scalable Systems
 
 🔗 https://github.com/Shevendra77/education-payment-system
 ---
+
+# 📄 AI Resume Analyzer — Spring Boot + AI Integration
+
+- Built an AI-powered Resume Analyzer system using Spring Boot backend  
+- Implemented ATS scoring system to evaluate resumes against job descriptions  
+- Integrated Gemini/OpenAI API for intelligent skill extraction and feedback generation  
+- Designed RESTful APIs for resume upload, analysis, and result retrieval  
+- Developed resume parsing system supporting PDF and DOCX formats  
+- Used MySQL database for storing user data, resumes, and analysis history  
+- Implemented modular architecture with Controller, Service, and Repository layers  
+- Added skill-matching algorithm to compare resume keywords with job requirements  
+- Built scalable backend structure for future AI enhancements and job recommendation system  
+
+---
+
+🔗 https://github.com/Shevendra77/resume_analyzer.git
+---
+
+
 ## 📊 GitHub Dashboard
 
 <p align="center">

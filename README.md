@@ -91,9 +91,8 @@ Backend Java Developer | Spring Boot | REST APIs | Building Scalable Systems
 - Designed RESTful APIs for resume upload, analysis, and result retrieval  
 - Developed resume parsing system supporting PDF and DOCX formats  
 - Used MySQL database for storing user data, resumes, and analysis history  
-- Implemented modular architecture with Controller, Service, and Repository layers  
-- Added skill-matching algorithm to compare resume keywords with job requirements  
-- Built scalable backend structure for future AI enhancements and job recommendation system  
+
+ 
 
 ---
 

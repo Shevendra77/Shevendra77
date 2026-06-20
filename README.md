@@ -46,7 +46,6 @@ Backend Java Developer | Spring Boot | REST APIs | Building Scalable Systems
 
 ### 🗄️ Database
 - MySQL  
-- MongoDB  
 
 
 ### 🔧 Tools & Platforms

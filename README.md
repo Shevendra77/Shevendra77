@@ -25,34 +25,39 @@ Backend Java Developer | Spring Boot | REST APIs | Building Scalable Systems
 </p>
 
 
+## 🛠️ Tech Stack
+
 ### ⚙️ Backend Development
-- Java  
-- Spring Boot  
-- Spring Data JPA  
-- Hibernate  
-- JDBC  
-- REST APIs
-- SpringSecurity
-
-
+- Java 17
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- JDBC
+- RESTful APIs
+- Redis Cache
+- Apache Kafka
+- Microservices
 
 ### 🎨 Frontend Development
-- HTML  
-- CSS  
-- JavaScript  
-- Basic React 
-
-
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js (Basic)
 
 ### 🗄️ Database
-- MySQL  
+- MySQL
 
+### ☁️ DevOps & Containerization
+- Docker
+- Docker Compose
 
 ### 🔧 Tools & Platforms
-- Git & GitHub  
-- IntelliJ IDEA  
-- Postman  
-- VS Code  
+- Git & GitHub
+- IntelliJ IDEA
+- VS Code
+- Postman
+- Maven
 
 ---
 

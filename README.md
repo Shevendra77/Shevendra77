@@ -18,10 +18,10 @@ Backend Java Developer | Spring Boot | REST APIs | Building Scalable Systems
 - Actively seeking **software engineering opportunities**
 
 ---
-## 🛠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git,github,idea,postman,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,html,css,js,react" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,maven" />
 </p>
 
 
@@ -61,47 +61,92 @@ Backend Java Developer | Spring Boot | REST APIs | Building Scalable Systems
 
 ---
 
-## 🚀 Featured Projects
-
 # 🎬 BookMyShow Clone
-- Built complete backend system using Spring Boot  
-- Designed REST APIs for booking & user management  
-- Used Hibernate + JPA for DB handling  
-- MySQL integration  
----
-🔗 https://github.com/Shevendra77/BookMyShow  
----
 
-# 💳 Education Payment System (- Microservices + Kafka + Razorpay)
+A full-stack movie ticket booking application inspired by BookMyShow, built using Java, Spring Boot, MySQL, JPA/Hibernate, JavaScript, and Razorpay.
 
-- Built a scalable microservices-based payment system using Spring Boot  
-- Implemented secure payment flow using Razorpay API integration  
-- Designed event-driven architecture using Apache Kafka for asynchronous communication  
-- Developed separate PaymentService and NotificationService for modular design  
-- Used MySQL for persistent storage of transactions and notification logs  
-- Integrated email notification system using SMTP (Gmail)  
-- Implemented Docker-based containerization for databases and services  
+## 🚀 Key Features
 
----
+- 🎥 Movie, theater, screen, and show management
+- 🎟️ Real-time seat availability and seat selection
+- 👤 User registration and login
+- 📋 Booking creation and cancellation
+- 💳 Razorpay payment integration with payment verification
+- 📧 Email confirmation after successful booking
+- 🔐 Secure REST APIs
+- 🛠️ Admin panel for managing movies and shows
+- 🌐 Responsive frontend using HTML, CSS & JavaScript
 
-🔗 https://github.com/Shevendra77/education-payment-system
----
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Database** | MySQL |
+| **Payment** | Razorpay |
+| **Tools** | Maven, Git, GitHub, Postman |
+
+## 🔗 Repository
+
+[github.com/Shevendra77/BookMyShow](https://github.com/Shevendra77/BookMyShow)
+
+# 💳 Education Payment System (Microservices + Kafka + Razorpay)
+
+A scalable microservices-based payment system for education platforms, built with Spring Boot, Apache Kafka, and Razorpay integration.
+
+## 🚀 Key Features
+
+- 🏗️ Scalable microservices-based payment system using Spring Boot
+- 💳 Secure payment flow with Razorpay API integration
+- 📨 Event-driven architecture using Apache Kafka for asynchronous communication
+- 🧩 Modular design with separate PaymentService and NotificationService
+- 🗄️ MySQL for persistent storage of transactions and notification logs
+- 📧 Email notification system integrated via SMTP (Gmail)
+- 🐳 Docker-based containerization for databases and services
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | Java, Spring Boot |
+| **Messaging** | Apache Kafka |
+| **Payment** | Razorpay API |
+| **Database** | MySQL |
+| **Notifications** | SMTP (Gmail) |
+| **DevOps** | Docker |
+
+## 🔗 Repository
+
+[github.com/Shevendra77/education-payment-system](https://github.com/Shevendra77/education-payment-system)
 
 # 📄 AI Resume Analyzer — Spring Boot + AI Integration
 
-- Built an AI-powered Resume Analyzer system using Spring Boot backend  
-- Implemented ATS scoring system to evaluate resumes against job descriptions  
-- Integrated Gemini/OpenAI API for intelligent skill extraction and feedback generation  
-- Designed RESTful APIs for resume upload, analysis, and result retrieval  
-- Developed resume parsing system supporting PDF and DOCX formats  
-- Used MySQL database for storing user data, resumes, and analysis history  
+An AI-powered Resume Analyzer built with Java & Spring Boot that evaluates resumes against job descriptions using ATS scoring and AI-driven feedback.
 
- 
+## 🚀 Key Features
 
----
+- 🤖 AI-powered resume analysis using Java & Spring Boot
+- 📊 ATS scoring to evaluate resumes against job descriptions
+- 🧠 Google Gemini AI integration for skill extraction and intelligent feedback
+- 🔗 REST APIs for resume upload, analysis & result retrieval
+- 📑 Resume parsing support for PDF & DOCX formats
+- 🔐 Spring Security & JWT-based authentication and authorization
+- 🗄️ MySQL for storing user data, resumes & analysis history
 
-🔗 https://github.com/Shevendra77/resume_analyzer.git
----
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | Java, Spring Boot, REST APIs |
+| **AI Integration** | Google Gemini AI |
+| **Security** | Spring Security, JWT |
+| **Database** | MySQL |
+| **Parsing** | PDF & DOCX resume parsing |
+
+## 🔗 Repository
+
+[github.com/Shevendr77/resume_analyzer](https://github.com/Shevendr77/resume_analyzer)
 
 
 ## 📊 GitHub Dashboard
